@@ -13,9 +13,12 @@ Simultaneous-remove phase
 Remove from list 3 every element whose index equals a value in list 1.
 Invalid indices raise the same warning and are ignored.
 -------------
-Error Handling (“Big Values”)
-A big value is any index that falls outside its target list.
+## Error Handling (“Big Values”)
+
+A **big value** is any index that falls outside its target list.  
 When this occurs the program prints exactly one diagnostic line:
-Big value — index <n> is invalid for list<m> (size <s>)
-The original animation flashes such cells in red; our console message mirrors that behaviour without terminating the run.
+
+The original animation highlights such cells in red; our console
+message mirrors that behaviour without terminating the run.
+
 <img width="938" alt="Screenshot 2025-07-03 at 10 06 08 AM" src="https://github.com/user-attachments/assets/a31ee652-bc1c-4396-a096-0ace55cbe7a2" />
