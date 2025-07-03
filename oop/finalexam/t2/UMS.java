@@ -59,7 +59,7 @@ public class UMS {
 
     private void populateRoster() {
         /* Muhammad Ahmed (Argus-verified courses will load on demand) */
-        students.add(new Student("Muhammad", "Ahmed", "U2025001"));
+        students.add(new Student("Muhammad", "Ahmed", "ST1158334"));
 
         Student alice = new Student("Alice", "Johnson", "S12345");
         alice.addCourse(new LearningCourse("Database Systems",
