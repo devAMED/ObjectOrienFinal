@@ -1,6 +1,6 @@
 What I built (quick summary)
 
-• Package: oop.final.t2 with three classes
+• Package: oop.finalexam.t2 with three classes
 
 LearningCourse → title, prereq, topics + getters/setters
 Student → name, id, list
