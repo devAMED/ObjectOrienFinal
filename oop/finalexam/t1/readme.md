@@ -16,7 +16,7 @@ Invalid indices raise the same warning and are ignored.
 Error Handling (“Big Values”)
 A big value is any index that falls outside its target list.
 When this occurs the program prints exactly one diagnostic line:
-⚠️  Big value — index <n> is invalid for list<m> (size <s>)
+Big value — index <n> is invalid for list<m> (size <s>)
 The original animation flashes such cells in red; our console message mirrors that behaviour without terminating the run.
 Screenshot
 The image below shows the test page highlighting index 10 in red when list 3 contains only 10 elements.
