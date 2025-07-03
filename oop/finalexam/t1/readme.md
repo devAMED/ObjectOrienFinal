@@ -18,6 +18,4 @@ A big value is any index that falls outside its target list.
 When this occurs the program prints exactly one diagnostic line:
 Big value — index <n> is invalid for list<m> (size <s>)
 The original animation flashes such cells in red; our console message mirrors that behaviour without terminating the run.
-Screenshot
-The image below shows the test page highlighting index 10 in red when list 3 contains only 10 elements.
 <img width="938" alt="Screenshot 2025-07-03 at 10 06 08 AM" src="https://github.com/user-attachments/assets/a31ee652-bc1c-4396-a096-0ace55cbe7a2" />
